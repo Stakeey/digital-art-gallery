@@ -1,4 +1,4 @@
-contract  MarketplaceAuction is ArtMarketplace, Ownable {
+contract  MarketplaceAuction {
 
 
     bytes4 constant InterfaceSignature_ERC721 = bytes4(0x9a20483d);
